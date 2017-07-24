@@ -1,3 +1,8 @@
-'''A trivial python program to demonstrate usage of Git'''
+'''A trivial python program with experimental hacks to demonstrate usage of Git'''
 
-print("hello, world") # official K&R style hello world
+#I don't know Python very well so this might break things
+
+for i in range(0,10):
+   print(i)
+
+print("hello, world, I can count!") #official K&$ style hello world
