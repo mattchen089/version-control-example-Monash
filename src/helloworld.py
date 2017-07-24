@@ -5,4 +5,4 @@
 for i in range(0,10):
    print(i)
 
-print("hello world, I can count!")
+print("hello, world, I can count!") #official K&$ style hello world
